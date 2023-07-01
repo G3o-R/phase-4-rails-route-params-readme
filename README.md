@@ -225,3 +225,5 @@ Before you move on, make sure you can answer the following questions:
 ## Resources
 
 - [Rails Routing](https://guides.rubyonrails.org/routing.html)
+
+https://github.com/G3o-R/phase-4-rails-route-params-readme
